@@ -1,13 +1,13 @@
 # HarvardX CS109x - Introduction to Data Science with Python
 
-This repository contains my projects completed during the HarvardX CS109x course.
+This repository contains projects completed during the HarvardX CS109x course.
 
 ## Projects
 - Simple Data Plotting
 - Simple kNN Regression
 - Linear Regression
 
-Skills:
+## Skills
 - Python
 - Pandas
 - NumPy
