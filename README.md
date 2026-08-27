@@ -11,6 +11,9 @@ This repository contains projects completed during the HarvardX CS109x course, c
 - Design Matrix & One-Hot Encoding
 - Polynomial Regression
 - Residual Analysis and Model Evaluation
+- Model Selection with Regression Models
+- Validation Set Model Selection
+- Model Selection Using Cross-Validation
 
 ## Topics Covered
 
@@ -23,6 +26,12 @@ This repository contains projects completed during the HarvardX CS109x course, c
 - One-Hot Encoding
 - Residual Analysis
 - Model Evaluation
+- Model Selection
+- Training and Validation Sets
+- Mean Squared Error (MSE)
+- Polynomial Degree Selection
+- Cross-Validation
+- Overfitting and Underfitting
 
 ## Skills
 
@@ -37,6 +46,9 @@ This repository contains projects completed during the HarvardX CS109x course, c
 - Feature Engineering
 - Predictive Modeling
 - Data Preprocessing
+- Model Comparison
+- Model Validation
+- Cross-Validation
 
 ## Libraries
 
