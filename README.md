@@ -18,7 +18,9 @@ This repository contains projects completed during the HarvardX CS109x course, c
 12. Cross-Validation for Model Selection
 13. Model Selection Using Cross-Validation
 14. Ridge and Lasso – Coefficient Variation
-
+15. Bias–Variance Trade-Off
+16. Ridge Regularization with Cross-Validation
+    
 ## Topics Covered
 
 * Data Visualization
