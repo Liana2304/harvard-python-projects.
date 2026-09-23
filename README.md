@@ -20,7 +20,9 @@ This repository contains projects completed during the HarvardX CS109x course, c
 14. Ridge and Lasso – Coefficient Variation
 15. Bias–Variance Trade-Off
 16. Ridge Regularization with Cross-Validation
-    
+17. Ridge Regression Hyperparameter Tuning
+18. Lasso and Ridge Regularization Comparison
+        
 ## Topics Covered
 
 * Data Visualization
