@@ -32,6 +32,10 @@ This repository contains projects completed during the HarvardX CS109x course, c
 26. Confidence Intervals for Regression Coefficients
 27. Predictor Significance
 28. Prediction Intervals for Sales
+29. COVID-19 Exploratory Data Analysis and Preprocessing
+30. COVID-19 Prediction Accuracy with kNN
+31. Classification Model Evaluation with Multiple Metrics
+32. ROC Curves and AUC for Classifier Comparison
         
 ## Topics Covered
 
@@ -74,7 +78,13 @@ This repository contains projects completed during the HarvardX CS109x course, c
 * Hypothesis Testing, t-Statistics and p-Values
 * Statistical Significance of Predictors
 * Prediction Intervals
-  
+* Exploratory Data Analysis (EDA)
+* Precision, Recall, Specificity and F1-Score
+* True Positive Rate (TPR) and False Positive Rate (FPR)
+* Classification Thresholds
+* Receiver Operating Characteristic (ROC) Curves
+* Area Under the ROC Curve (AUC)
+* Model Comparison under Decision Constraints
 ## Skills
 
 * Python
@@ -103,6 +113,9 @@ This repository contains projects completed during the HarvardX CS109x course, c
 * Statistical Inference
 * Uncertainty Quantification
 * SciPy
+* Exploratory Data Analysis (EDA)
+* Classification Model Evaluation
+* ROC Curve and AUC Analysis
 
 ## Libraries
 
